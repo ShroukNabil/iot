@@ -1,3 +1,3 @@
 # iot
 
-my firt Repo
+my first Repo
